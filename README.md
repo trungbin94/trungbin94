@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @trungbin94
+- 👋 Hi, I’m Duc Trung Tran
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning more about data science, especially about python
 
